@@ -2,6 +2,10 @@
 
 SignalDesk converts unstructured work updates into reviewable action candidates with source evidence, visible uncertainty, dependency tracking, explainable priority scoring, and a human approval gate.
 
+**🔗 Live demo:** https://signaldesk-ai-hqnutifsms68kbjhmpodz5.streamlit.app/
+
+*Free hosting: if the app has been idle, click "Wake up" and wait a few seconds. Demo data resets when the app restarts.*
+
 ## Why this project
 **Domain:** Technology (with a healthcare-operations scenario). **Area:** Automation / Innovation.
 Teams lose track of who owns what, which deadlines are real, and what is blocked, because updates arrive as free text. Plain LLM extraction makes this worse by turning guesses into facts ("might check" becomes "owner: Ananya, due Friday"). SignalDesk is built around preventing exactly that.
